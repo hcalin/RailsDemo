@@ -11,6 +11,7 @@ gem 'bootsnap',   '1.7.2', require: false
 gem 'capybara',           '3.35.3'
 gem 'selenium-webdriver', '3.142.7'
 gem 'webdrivers',         '4.6.0'
+gem 'thor', '1.1.0'
 
 group :development, :test do
    gem 'sqlite3', '1.4.2'
